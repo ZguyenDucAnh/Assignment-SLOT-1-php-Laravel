@@ -1,0 +1,13 @@
+input[type="submit"], [type="text"]{
+    background-color: black;
+    color: white;
+    
+}
+
+label, p{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
